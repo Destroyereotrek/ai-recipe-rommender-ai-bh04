@@ -1,4 +1,4 @@
-# 
+# Seguro AI Recipe Recommender scripts. Com visão computacional e extração de recursos — otimizado para máximo desempenho.
 
 
 
